@@ -38,6 +38,6 @@ weight: 1
 
 Over the year's I have created a masterlist of binders, STP's, packers, tucking wear and gaff's. In the spirit of accessibility these have been split up into their own pages for you to look through. If there are any changes or additions you'd like to see please swing me a message or suggest an edit on GitHub.
 
-* [Packer and STP's](/posts/packer-stp-company-recs/)
-* [Gaffs and tucking wear](/posts/gaffs-tucking-company-recs/)
-* [Binder, zipper binders and tape binding](/posts/binder-company-recs/)
+* [Packer and STP's](/ewb-archive/posts/packer-stp-company-recs/)
+* [Gaffs and tucking wear](/ewb-archive/posts/gaffs-tucking-company-recs/)
+* [Binder, zipper binders and tape binding](/ewb-archive/posts/binder-company-recs/)
