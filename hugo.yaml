@@ -1,6 +1,6 @@
 baseURL: "https://examplesite.com/"
 title: Eli's Archive
-paginate: 5
+paginate: 8
 theme: PaperMod
 
 enableRobotsTXT: true
@@ -20,7 +20,6 @@ params:
   description: "Eli's archive"
   keywords: [Blog, Portfolio, PaperMod]
   author: Eli
-  # author: ["Me", "You"] # multiple authors
   images: ["<link or path of image for opengraph, twitter-cards>"]
   DateFormat: "January 2, 2006"
   defaultTheme: auto # dark, light
@@ -77,9 +76,11 @@ params:
     Content: Welcome to Eli's archive
 
   socialIcons:
+    - name: spotify
+      url: "https://open.spotify.com/user/hells-purge?si=ac8a9b6082fb416b"
     - name: github
       url: "https://github.com/ew-b"
-
+    
   analytics:
     google:
       SiteVerificationTag: "XYZabc"
@@ -93,10 +94,10 @@ params:
     hiddenInList: true # hide on list pages and home
     hiddenInSingle: true # hide on single page
 
-  # editPost:
-  #   URL: "https://github.com/<path_to_repo>/content"
-  #   Text: "Suggest Changes" # edit text
-  #   appendFilePath: true # to append file path to Edit link
+  editPost:
+    URL: "https://github.com/ew-b/ewb-archive/content"
+    Text: "Suggest Changes" # edit text
+    appendFilePath: true # to append file path to Edit link
 
   # for search
   # https://fusejs.io/api/options.html
@@ -116,12 +117,16 @@ menu:
   main:
     - identifier: podcasts-recs
       name: podcasts recs
-      url: /posts/podcast-recs
+      url: /posts/podcast-recs/
       weight: 10
     - identifier: gender-affirming-wear
       name: gender affirming wear
       url: /posts/gender-affirming-wear/
       weight: 20
+    - identifer: search
+      name: "search \U0001F50D"
+      url: /search/
+      weight: 30
 # Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
 taxonomies:
   category: categories
@@ -135,3 +140,9 @@ markup:
     # guessSyntax: true
     # lineNos: true
     # style: monokai
+
+outputs:
+  home:
+    - HTML
+    - RSS
+    - JSON # necessary for search
