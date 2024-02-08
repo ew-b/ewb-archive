@@ -1,11 +1,8 @@
 ---
 title: "Book Recommendations"
 date: 2024-02-08T11:30:03+00:00
-# weight: 1
-# aliases: ["/first"]
 tags: ["books", "media", "posts"]
 author: "Eli"
-# author: ["Me", "You"] # multiple authors
 showToc: true
 TocOpen: false
 draft: true

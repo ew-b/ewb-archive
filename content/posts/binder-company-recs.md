@@ -1,11 +1,8 @@
 ---
 title: "Binder, Zip Binders and Tape Binding"
 date: 2024-01-15T11:30:03+00:00
-# weight: 1
-# aliases: ["/first"]
 tags: ["gender affirmation", "trans", "binders"]
 author: "Eli"
-# author: ["Me", "You"] # multiple authors
 showToc: true
 TocOpen: false
 draft: false

@@ -1,8 +1,6 @@
 ---
 title: "Finding New Podcast Recommendations"
 date: 2024-02-08T11:30:03+00:00
-# weight: 1
-# aliases: ["/first"]
 tags: ["podcasts", "media", "posts"]
 author: "Eli"
 # author: ["Me", "You"] # multiple authors

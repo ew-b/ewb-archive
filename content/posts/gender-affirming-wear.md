@@ -1,8 +1,6 @@
 ---
 title: "Gender Affirming Wear"
 date: 2024-01-10T11:30:03+00:00
-# weight: 1
-# aliases: ["/first"]
 tags: ["gender affirmation", "trans", "binders", "gaffs"]
 author: "Eli"
 showToc: true
@@ -33,7 +31,6 @@ editPost:
     URL: "https://github.com/ew-b/ewb-archive/blob/main/content/posts/gender-affirming-wear.md"
     Text: "Suggest Changes" # edit text
     appendFilePath: true # to append file path to Edit link
-weight: 1
 ---
 
 Over the year's I have created a masterlist of binders, STP's, packers, tucking wear and gaff's. In the spirit of accessibility these have been split up into their own pages for you to look through. If there are any changes or additions you'd like to see please swing me a message or suggest an edit on GitHub.

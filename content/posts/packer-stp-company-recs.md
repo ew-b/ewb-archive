@@ -1,7 +1,6 @@
 ---
 title: "Packers and STP's"
 date: 2024-01-15T11:30:03+00:00
-# weight: 1
 tags: ["gender affirmation", "trans", "packers", "stp's"]
 author: "Eli"
 showToc: true
