@@ -34,7 +34,7 @@ editPost:
     appendFilePath: true # to append file path to Edit link
 ---
 
-I am a little biased in my podcast listening, or more I highly prefer small queer made podcasts that might end up becoming popular. It's like fanfic, the creators put so much effort and love for the joy of creating a story. Because the podcast medium can be so easy to make it gives a platform to those with barely any money for a microphone.
+I am a little biased in my podcast listening, or more I highly prefer small queer made podcasts that might end up becoming popular. It's like fanfic, the creators put so much effort and love for the joy of creating a story. Because podcasts can be simple to make on a low/no budget, it gives a platform to those with barely any money for a microphone that normally would face barriers.
 
 I tend to find podcasts by word of mouth, recommended from Tumblr blogs I follow and recommended by small podcast companies I follow. Special shout out to Gemini Collision Works (Life with Althaar creator) and Iris Case Files (The Strange Case of Starship Iris) on Tumblr, those two love interacting with the fandom when they can and sharing posts that recommend them that often are also recommending other podcasts. There is also the fun case of I find a voice actor I love, like Zach Valenti who is in Time:Bombs and Wolf359, who pops up in another podcast so I hunt that down and give it a listen too.
 
