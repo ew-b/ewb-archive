@@ -80,6 +80,8 @@ params:
       url: "https://open.spotify.com/user/hells-purge?si=ac8a9b6082fb416b"
     - name: github
       url: "https://github.com/ew-b"
+    - name: "rss"
+      url: "https://ew-b.github.io/ewb-archive/index.xml"
     
   analytics:
     google:
