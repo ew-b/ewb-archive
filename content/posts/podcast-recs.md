@@ -12,7 +12,7 @@ draft: false
 hidemeta: false
 comments: false
 description: "Masterlist of podcasts I recommend"
-canonicalURL: "https://canonical.url/to/page"
+canonicalURL: "https://ew-b.github.io/ewb-archive/posts/podcast-recs/"
 disableHLJS: true # to disable highlightjs
 disableShare: false
 disableHLJS: false

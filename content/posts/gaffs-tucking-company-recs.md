@@ -11,7 +11,7 @@ draft: false
 hidemeta: false
 comments: false
 description: "A quick list of community recommended tucking and gaff wear for gender affirmation."
-canonicalURL: "https://canonical.url/to/page"
+canonicalURL: "https://ew-b.github.io/ewb-archive/posts/gaffs-tucking-company-recs/"
 disableHLJS: true # to disable highlightjs
 disableShare: false
 disableHLJS: false

@@ -10,7 +10,7 @@ draft: false
 hidemeta: false
 comments: false
 description: "A quick list of community recommended packers and stp's for gender affirming wear."
-canonicalURL: "https://canonical.url/to/page"
+canonicalURL: "https://ew-b.github.io/ewb-archive/posts/packer-stp-company-recs/"
 disableHLJS: true # to disable highlightjs
 disableShare: false
 disableHLJS: false

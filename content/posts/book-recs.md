@@ -1,9 +1,9 @@
 ---
 title: "Book Recommendations"
-date: 2020-09-15T11:30:03+00:00
+date: 2024-02-08T11:30:03+00:00
 # weight: 1
 # aliases: ["/first"]
-tags: ["first", "books", "media", "posts"]
+tags: ["books", "media", "posts"]
 author: "Eli"
 # author: ["Me", "You"] # multiple authors
 showToc: true
@@ -12,7 +12,7 @@ draft: true
 hidemeta: false
 comments: false
 description: "All time favourite books"
-canonicalURL: "https://canonical.url/to/page"
+canonicalURL: "https://ew-b.github.io/ewb-archive/posts/book-recs/"
 disableHLJS: true # to disable highlightjs
 disableShare: false
 disableHLJS: false
