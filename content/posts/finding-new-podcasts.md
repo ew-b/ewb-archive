@@ -44,7 +44,7 @@ This is more of a priority reference for myself, I have heard they're good thoug
 * Dark ages
 
 
-## Where I Find The Podcasts
+## A quick list
 This list is some of what's listed from the images below.
 
 * Archive 81
