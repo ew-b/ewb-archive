@@ -79,8 +79,8 @@ So that's to say, here's the tumblr posts and images I refer back to when I'm lo
 
 ### [By Choofs - "This is for my people with the silly podcast"](https://www.tumblr.com/choofs/729642326262153216/this-is-for-my-people-with-the-silly-podcast)
 
-![A venn diagram of different podcasts made in 2019 - "This is for my people with the silly podcast"](/static/choofs-silly-people-venn-diagram.png)
+![A venn diagram of different podcasts made in 2019 - "This is for my people with the silly podcast"](/choofs-silly-people-venn-diagram.png)
 
 ### [By Boombox-fuckboy - Pride flag podcasts"](https://boombox-fuckboy.tumblr.com/post/706017416911749121/not-my-flags-but-i-couldnt-resist-giving-them-a)
 
-![Agender podcast recommendations](/static/static/boombox-fuckboy-agender-flag.jpg)
+![Agender podcast recommendations](/boombox-fuckboy-agender-flag.jpg)

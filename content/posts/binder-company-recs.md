@@ -56,8 +56,7 @@ This is the best of list of binders that offers a range of sizes, colours, fabri
 
 * Take a snug measurement of the fullest part of your chest.
 * Measure underneath your chest, where the crease is.
-* Add those two measurements together and divide the sum by two and that is your
-* binder size.
+* Add those two measurements together and divide the sum by two and that is your binder size.
 * Make sure to double-check and follow the instructions provided by the brand of your
 * binder, as some brands may require a different method of measurement for sizing.
 
