@@ -1,6 +1,6 @@
 ---
 title: "Podcast Recommendations"
-date: 2024-02-07T11:30:03+00:00
+date: 2024-03-03T11:30:03+00:00
 # weight: 1
 # aliases: ["/first"]
 tags: ["podcasts", "media", "posts"]
@@ -262,10 +262,10 @@ Terraforming Mars, but things keep falling apart. Funny sci-fi with late stage c
 
 **CW:** Vomit, ringing sounds and heavily distorted voices that aren’t suitable for noise sensitivity or hard of hearing. 
 
-Spice science fiction sitcom, an unlikely friendship between an alien who’s sight make humans throw up and a human that needs a place to stay and a job in the unluckiest place in space. Based on a space station, primarily funny, heart breaking at times, and long ass episodes. It’s a comedy sci-fi soap opera that is incredibly complex but has really strong plot, setting and background - trust me there is overarching plot
+Science fiction sitcom, an unlikely friendship between an alien who’s sight make humans throw up and a human that needs a place to stay and a job in the unluckiest place in space. Don't let sitcom stop you, it's just has long form episodes instead of short 20 minute episodes. Based on a space station, primarily funny, heart breaking at times. It’s a comedy sci-fi soap opera that is incredibly complex but has really strong plot, setting and background - trust me there is overarching plot.
 
 
-### [Fuck Humans ](https://open.spotify.com/show/34VPvKAeyTQsHwCg2sDwt0?si=czB-zEWIRkiq_wqUS0_PmA)
+### Fuck Humans
 
 **Genre/themes:** NFSW/sexual, monsters
 
@@ -280,11 +280,11 @@ Erotic podcast with monster fuckers, NSFW. Aro, ace, enby, trans, gay, sapphic a
 
 **Genre/themes:** NSFW books, comedy, non-fiction, talk show
 
-**Status:** Complete (?)
+**Status:** Complete/stopped releasing.
 
 **CW:** Discusses niche kinks and sexual topics that might not be suitable for everyone.
 
-Reviewing $1 erotic romance novels on Amazon, queer, sex and kink positive content. Really cool how they cover how erotic content should be written.
+Reviewing $1 erotic romance novels on Amazon, queer, sex and kink positive content. Really cool how they cover how erotic content should be written. They interview Chuck Tingle at somepoint too.
 
 
 ### [The After Disaster Podcast](https://open.spotify.com/show/7esqnANQ5PqZaH02D77Ybq?si=agZ-co0LQG2QVQeBlvckYw)
@@ -328,14 +328,10 @@ First season is urban fantasy high school, absolutely off the rails and breaks a
 
 **Genre/themes:** Survival horror
 
-**Status:** ?
+**Status:** Ongoing
 
 **CW:** Horror, main character death, isolation, disorted voices, psycological horror, shapeshifting
 
 A bunch of people need some extra money so they agree to a mildly sketchy exhibition to an ice tundra, following the style of found footage and archival storage of the story you discover what they find under the ice.
 
 Has different languages and cultures represented really well.
-
-TW: Horror
-
-
