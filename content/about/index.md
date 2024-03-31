@@ -1,26 +1,27 @@
 ---
-title: "Book Recommendations"
+title: "About the Author"
 date: 2024-03-30T11:30:03+00:00
-tags: ["books", "media", "posts"]
+tags: ["about", "the author"]
 author: "Eli"
+# author: ["Me", "You"] # multiple authors
 showToc: true
 TocOpen: false
-draft: false
+draft: true
 hidemeta: false
 comments: false
-description: "All time favourite books"
-canonicalURL: "https://ew-b.github.io/ewb-archive/posts/book-recs/"
+description: ""
+canonicalURL: "https://ew-b.github.io/ewb-archive/about/"
 disableHLJS: true # to disable highlightjs
 disableShare: false
 disableHLJS: false
 hideSummary: false
-searchHidden: false
-ShowReadingTime: true
+searchHidden: true
+ShowReadingTime: false
 ShowBreadCrumbs: true
 ShowPostNavLinks: true
-ShowWordCount: true
+ShowWordCount: false
 ShowRssButtonInSectionTermList: true
-UseHugoToc: true
+UseHugoToc: false
 cover:
     image: "<image path/url>" # image path/url
     alt: "<alt text>" # alt text
@@ -28,20 +29,8 @@ cover:
     relative: false # when using page bundles set this to true
     hidden: true # only hide on current single page
 editPost:
-    URL: "https://github.com/<path_to_repo>/content"
+    URL: "https://github.com/ew-b/ewb-archive/blob/main/content/about/index.md"
     Text: "Suggest Changes" # edit text
     appendFilePath: true # to append file path to Edit link
 ---
-
-Message me if you want more content warnings or recommendations!
-*This page is a work in progress*
-
-
-## The Short List
-- All For The Game by Nora Sakavic
-- The Locked Tomb Series by Tamsyn Muir
-- The Expanse series by James S.A Corey
-- Cutting Your Teeth by Caylan MacRae
-- Project Hail Mary by Andy Weir
-- The Martian by Andy Weir
 

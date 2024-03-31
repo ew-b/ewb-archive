@@ -9,7 +9,7 @@ draft: false
 hidemeta: false
 comments: false
 description: "A quick list of community recommended packers and stp's for gender affirming wear."
-canonicalURL: "https://ew-b.github.io/ewb-archive/posts/packer-stp-company-recs/"
+canonicalURL: "https://ew-b.github.io/ewb-archive/posts/resources/gender-affirming-wear/packer-stp-company-recs/"
 disableHLJS: true # to disable highlightjs
 disableShare: false
 disableHLJS: false
@@ -28,9 +28,9 @@ cover:
     relative: false # when using page bundles set this to true
     hidden: true # only hide on current single page
 editPost:
-    URL: "https://github.com/ew-b/ewb-archive/blob/main/content/posts/packer-stp-company-recs.md"
+    URL: "https://github.com/ew-b/ewb-archive/blob/main/content/posts/resources/gender-affirming-wear/packer-stp-company-recs.md"
     Text: "Suggest Changes" # edit text
-    appendFilePath: true # to append file path to Edit link
+    appendFilePath: false # to append file path to Edit link
 ---
 
 

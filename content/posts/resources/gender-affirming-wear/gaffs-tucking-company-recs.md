@@ -9,7 +9,7 @@ draft: false
 hidemeta: false
 comments: false
 description: "A quick list of community recommended tucking and gaff wear for gender affirmation."
-canonicalURL: "https://ew-b.github.io/ewb-archive/posts/gaffs-tucking-company-recs/"
+canonicalURL: "https://ew-b.github.io/ewb-archive/posts//resources/gender-affirming-wear/gaffs-tucking-company-recs/"
 disableHLJS: true # to disable highlightjs
 disableShare: false
 disableHLJS: false
@@ -28,7 +28,7 @@ cover:
     relative: false # when using page bundles set this to true
     hidden: true # only hide on current single page
 editPost:
-    URL: "https://github.com/ew-b/ewb-archive/blob/main/content/posts/gaffs-tucking-company-recs.md"
+    URL: "https://github.com/ew-b/ewb-archive/blob/main/content/posts//resources/gender-affirming-wear/gaffs-tucking-company-recs.md"
     Text: "Suggest Changes" # edit text
     appendFilePath: false # to append file path to Edit link
 ---

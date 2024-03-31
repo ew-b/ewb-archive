@@ -1,20 +1,23 @@
 ---
-title: "Book Recommendations"
-date: 2024-03-30T11:30:03+00:00
-tags: ["books", "media", "posts"]
+title: "Pronouns"
+date: 2020-09-15T11:30:03+00:00
+# weight: 1
+# aliases: ["/first"]
+tags: ["posts", "media"]
 author: "Eli"
+# author: ["Me", "You"] # multiple authors
 showToc: true
 TocOpen: false
-draft: false
+draft: true
 hidemeta: false
 comments: false
-description: "All time favourite books"
-canonicalURL: "https://ew-b.github.io/ewb-archive/posts/book-recs/"
+description: "Desc Text."
+canonicalURL: "https://canonical.url/to/page"
 disableHLJS: true # to disable highlightjs
 disableShare: false
 disableHLJS: false
 hideSummary: false
-searchHidden: false
+searchHidden: true
 ShowReadingTime: true
 ShowBreadCrumbs: true
 ShowPostNavLinks: true
@@ -33,15 +36,6 @@ editPost:
     appendFilePath: true # to append file path to Edit link
 ---
 
-Message me if you want more content warnings or recommendations!
-*This page is a work in progress*
+Pronouns are a useful bit of grammar to identify someone other than their name. 
 
-
-## The Short List
-- All For The Game by Nora Sakavic
-- The Locked Tomb Series by Tamsyn Muir
-- The Expanse series by James S.A Corey
-- Cutting Your Teeth by Caylan MacRae
-- Project Hail Mary by Andy Weir
-- The Martian by Andy Weir
-
+[Pronouny XYZ]("https://pronouny.xyz/)

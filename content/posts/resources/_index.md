@@ -1,20 +1,23 @@
 ---
-title: "Book Recommendations"
+title: "Resources"
 date: 2024-03-30T11:30:03+00:00
-tags: ["books", "media", "posts"]
+# weight: 1
+# aliases: ["/first"]
+tags: ["resources"]
 author: "Eli"
+# author: ["Me", "You"] # multiple authors
 showToc: true
 TocOpen: false
 draft: false
 hidemeta: false
 comments: false
-description: "All time favourite books"
-canonicalURL: "https://ew-b.github.io/ewb-archive/posts/book-recs/"
+description: "Desc Text."
+canonicalURL: "https://canonical.url/to/page"
 disableHLJS: true # to disable highlightjs
 disableShare: false
 disableHLJS: false
 hideSummary: false
-searchHidden: false
+searchHidden: true
 ShowReadingTime: true
 ShowBreadCrumbs: true
 ShowPostNavLinks: true
@@ -32,16 +35,3 @@ editPost:
     Text: "Suggest Changes" # edit text
     appendFilePath: true # to append file path to Edit link
 ---
-
-Message me if you want more content warnings or recommendations!
-*This page is a work in progress*
-
-
-## The Short List
-- All For The Game by Nora Sakavic
-- The Locked Tomb Series by Tamsyn Muir
-- The Expanse series by James S.A Corey
-- Cutting Your Teeth by Caylan MacRae
-- Project Hail Mary by Andy Weir
-- The Martian by Andy Weir
-
